@@ -197,6 +197,9 @@ git commit -m "edit file1"
 
 # push changes to github
 git push --set-upstream origin feature-a
+
+# name
+jonass
 ```
 
 # Advanced features
